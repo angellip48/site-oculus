@@ -1,0 +1,22 @@
+{
+  "name": "gulp-start",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexander Antonov",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "latest",
+    "del": "^6.0.0",
+    "gulp": "latest",
+    "gulp-autoprefixer": "latest",
+    "gulp-concat": "latest",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-sass": "latest",
+    "gulp-uglify-es": "latest",
+    "sass": "^1.58.3"
+  }
+}
